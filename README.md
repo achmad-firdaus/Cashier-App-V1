@@ -5,18 +5,18 @@ Cashier-App-V1
 Berisi tentang:
 
     o	Page: Dashboard, Profile, User, Item, Category, Sold Out, Transaction, Report, Reset Password, Log Out
-            Dashboard : Berisi chart dari data pada setiap tabel
-            Profile   : Mengatur profile untuk cetak struck pada transaksi
+            Dashboard : Berisi chart dari data pada setiap tabel,
+            Profile   : Mengatur profile untuk cetak struck pada transaksi,
             User      : Management user dan reset password pada setiap user untuk admin,
             Item      : Management Item,
             Category  : Management Category sesuai status disable or enable,
             Sold Out  : Melihat data yang sudah terjual,
-            Transaction: Membuat transaksi dengan stock auto update dan auto cetak truck
+            Transaction: Membuat transaksi dengan stock auto update dan auto cetak truck,
             Report    : Export data pada setiap tabel,
             Reset Pass: Mereset dengan email untuk spesifik user yang digunakan (member),
             Log Out   : keluar applikasi.
-    o	Chart pada dashboard sudah auto memilih data tertinggi bila terjadi perubahan pada semua tabel
-    o	Create, Read, Update, Delete pada setiap page menggunakan ajax
+    o	Chart pada dashboard sudah auto memilih data tertinggi bila terjadi perubahan pada semua tabel,
+    o	Create, Read, Update, Delete pada setiap page menggunakan ajax,
     o	Reset password menggunakan email,
     o	Export Pdf.
 
@@ -30,4 +30,6 @@ User:
 
     Username Member : achmadU0002
     Password Member : achmad
+
+Link demo: https://thirtysevenprojects.com/appCashier_V1/login/LoginController/index/
 
