@@ -23,3 +23,11 @@ Berisi tentang:
 Ini adalah untuk password reset user
 ![image](https://user-images.githubusercontent.com/77251566/129644260-a7a71b59-8bc8-474b-bbda-5b6fd814adba.png)
 
+User:
+
+    Username Admin : achmadU0001
+    Password Admin : achmad
+
+    Username Member : achmadU0002
+    Password Member : achmad
+
